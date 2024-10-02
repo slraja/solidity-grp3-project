@@ -342,7 +342,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/4_Group3_UpgradableContract.sol": "Group3_UpgradableContract"
+			"contracts/4_UUPS_UpgradableContract1.sol": "Group3_UpgradableContract"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -436,7 +436,7 @@
 				"dweb:/ipfs/QmTHiadFCSJUPpRjNegc5SahmeU8bAoY8i9Aq6tVscbcKR"
 			]
 		},
-		"contracts/4_Group3_UpgradableContract.sol": {
+		"contracts/4_UUPS_UpgradableContract1.sol": {
 			"keccak256": "0x7ef5e922aaf5ab1ecf07eec2aaa555968aaab49224f596b044a972d3962aaf81",
 			"license": "MIT",
 			"urls": [
